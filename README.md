@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/your-username/traductra/assets/banner.png" alt="Traductra Banner" style="max-width: 100%;" />
+<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/7c5c42fc-bcee-4f62-a49d-4ad2dcaa1a93" />
 
 # 🌐 Traductra
 
