@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/7c5c42fc-bcee-4f62-a49d-4ad2dcaa1a93" />
 
 # 🌐 Traductra
+<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/7c5c42fc-bcee-4f62-a49d-4ad2dcaa1a93" />
 
 AI-powered **Translator** & **String Generator** – Instantly translate text or generate **usernames**, **passwords**, and **creative sentences** from your prompt.
 
