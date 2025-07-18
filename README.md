@@ -3,9 +3,10 @@
 
 
 # 🌐 Traductra
-<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/7c5c42fc-bcee-4f62-a49d-4ad2dcaa1a93" />
 
 AI-powered **Translator** & **String Generator** – Instantly translate text or generate **usernames**, **passwords**, and **creative sentences** from your prompt.
+
+<img width="610" height="344" alt="image" src="https://github.com/user-attachments/assets/af361f80-b988-4b64-a10d-7fe2dfab7ae8" />
 
 </div>
 
