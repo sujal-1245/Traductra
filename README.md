@@ -77,20 +77,21 @@ VITE_RAPID_API_KEY=your_api_key_here
 | `Password` | Strong password with special chars, numbers, no spaces |
 | `Sentence` | ChatGPT-style imaginative sentence from your prompt    |
 
+---
+
+## 🙌 Connect with Me
+
+Made with ❤️ by [Sujal Bhagat](https://github.com/sujal-1245)
+
 <div align="center">
-  <a href="https://traductra.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-🌍%20Visit%20Live%20Site-black?style=for-the-badge" />
+  <a href="https://github.com/sujal-1245" target="_blank">
+    <img src="https://img.shields.io/badge/-💻%20GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/sujal-1245/traductra" target="_blank">
-    <img src="https://img.shields.io/badge/-📂%20Source%20Code-blue?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/sujal-bhagat-sdb1245/" target="_blank">
+    <img src="https://img.shields.io/badge/-🔗%20LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </div>
 
----
-
-## 🙌 Credits
-
-Made with ❤️ by [Sujal Bhagat](https://github.com/sujal-1245)
 
 ---
 
